@@ -25,8 +25,20 @@ h3  {
   margin: 30px 0px 30px 0px;
 }
 
+h4 {
+  font-size: 20px;
+  margin: 30px 0px 30px 0px;
+}
+
 #ingredients {
-  font-size: 25px;
+  
+  font-size: 1em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#description {
+  font-size: 20px;
+  
 }
 
 ul{
